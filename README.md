@@ -99,7 +99,3 @@ I’m passionate about building cool stuff on the web, working with awesome team
 </div>
 
 ###
-
----
-
-This adds more personality and detail to your **About me** section, reinforcing your passion, adaptability, and curiosity as a developer. Let me know if you’d like to tweak further or highlight any specific areas! 🚀✨
